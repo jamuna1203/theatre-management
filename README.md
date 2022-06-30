@@ -1,4 +1,4 @@
-# theatre-management
+# Theatre-Management
 This is a user-friendly and menu-driven program which is designed to book tickets for a movie by a user by providing the necessary details.
 When the program is executed, the welcome screen appears showing the logo of the theatre’s name and then shows the option to enter as an admin or a user. 
 The admin menu is only accessible after entering the right username and password combination within 3 chances. 
